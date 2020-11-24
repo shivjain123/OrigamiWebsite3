@@ -1,0 +1,44 @@
+h1{
+    color : #800080;
+}
+*{
+    border : solid
+}
+.header{
+    background-color : #FFC0CB;
+    justify-content : space-between;
+}
+
+.grid{
+    background-color : #FFC0CB;
+    display : flex;
+    flex-wrap: wrap;
+    justify-content : space-evenly;
+}
+h2{
+    color : #0000ff;
+    text-align : center;
+}
+p{
+    text-align: center;
+}
+a:link{
+    color: #0000ff;
+}
+a:visited{
+    color : #e21111;
+}
+.origami:hover{
+    transform: scale(1.2);
+}
+a{
+    text-decoration: none;
+}
+/*
+.grid1{
+    background-color: black;
+    display : flex;
+    flex-wrap: wrap;
+    justify-content : space-evenly;
+}
+*/
